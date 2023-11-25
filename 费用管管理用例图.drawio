@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T07:00:03.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hcMdyZrUaswJKR-6QLuE" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T07:00:33.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="5ZXbuLiFBHapJaUsrTmB" version="22.1.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="用例图">
     <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="aq9LhDQsss7H8aGWOLQn-18" value="费用审批" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="940" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aq9LhDQsss7H8aGWOLQn-22" value="费用录入" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aq9LhDQsss7H8aGWOLQn-22" value="(经营)费用录入" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="920" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aq9LhDQsss7H8aGWOLQn-23" value="市场开发费用的申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
