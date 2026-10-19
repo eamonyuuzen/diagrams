@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="1664" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -906,12 +906,9 @@
             <mxPoint x="1110" y="634" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="206" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#596572;strokeWidth=1.2;endArrow=block;endFill=1;startArrow=none;dashed=1;dashPattern=6 4;entryX=0.736;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="91" value="">
-          <mxGeometry relative="1" x="-0.0519" as="geometry">
-            <Array as="points">
-              <mxPoint x="1158" y="690" />
-              <mxPoint x="1199.76" y="690" />
-            </Array>
+        <mxCell id="206" edge="1" parent="1" source="164" style="edgeStyle=none;rounded=0;html=1;strokeColor=#596572;strokeWidth=1.2;endArrow=block;endFill=1;startArrow=none;dashed=1;dashPattern=6 4;entryX=0.551;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.644;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" target="123" value="">
+          <mxGeometry relative="1" x="-0.118" as="geometry">
+            <Array as="points" />
             <mxPoint x="1158" y="717" as="sourcePoint" />
             <mxPoint x="1190" y="634" as="targetPoint" />
           </mxGeometry>
