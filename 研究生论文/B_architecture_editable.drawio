@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="1664" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="2438" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,10 +512,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="125" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.15;endArrow=block;endFill=1;startArrow=none;entryX=-0.001;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" target="89" value="">
-          <mxGeometry relative="1" x="0.0048" as="geometry">
+          <mxGeometry relative="1" x="0.2945" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="157" />
-              <mxPoint x="960" y="174" />
+              <mxPoint x="970" y="157" />
+              <mxPoint x="970" y="173.79" />
             </Array>
             <mxPoint x="949" y="157" as="sourcePoint" />
             <mxPoint x="980" y="174" as="targetPoint" />
@@ -571,11 +571,11 @@
             <mxPoint x="980" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="131" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.1;endArrow=block;endFill=1;startArrow=none;entryX=0;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;" target="91" value="">
+        <mxCell id="131" edge="1" parent="1" source="83" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.1;endArrow=block;endFill=1;startArrow=none;entryX=0;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" target="91" value="">
           <mxGeometry relative="1" x="0.0175" as="geometry">
             <Array as="points">
-              <mxPoint x="956" y="548" />
-              <mxPoint x="956" y="528.09" />
+              <mxPoint x="970" y="550" />
+              <mxPoint x="970" y="528.09" />
             </Array>
             <mxPoint x="945" y="548" as="sourcePoint" />
             <mxPoint x="980" y="526" as="targetPoint" />
