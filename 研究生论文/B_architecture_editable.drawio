@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="1178" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="817" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="83" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFF0D9;strokeColor=#C47A2C;strokeWidth=1.15;fontFamily=Georgia;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;R&lt;/i&gt;&lt;sub&gt;5&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="30" width="91" x="854" y="533" as="geometry" />
+          <mxGeometry height="30" width="91" x="854" y="535" as="geometry" />
         </mxCell>
         <mxCell id="84" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.15;endArrow=block;endFill=1;startArrow=none;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="85" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFF0D9;strokeColor=#C47A2C;strokeWidth=1.15;fontFamily=Georgia;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;R&lt;/i&gt;&lt;sub&gt;10&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="30" width="91" x="854" y="569" as="geometry" />
+          <mxGeometry height="30" width="91" x="854" y="570" as="geometry" />
         </mxCell>
         <mxCell id="86" edge="1" parent="1" source="70" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.15;endArrow=block;endFill=1;startArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -522,10 +522,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="126" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.15;endArrow=block;endFill=1;startArrow=none;entryX=-0.001;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" target="89" value="">
-          <mxGeometry relative="1" x="0.0035" as="geometry">
+          <mxGeometry relative="1" x="0.0557" as="geometry">
             <Array as="points">
-              <mxPoint x="965" y="246" />
-              <mxPoint x="965" y="205" />
+              <mxPoint x="970" y="246" />
+              <mxPoint x="970" y="204.95" />
             </Array>
             <mxPoint x="949" y="246" as="sourcePoint" />
             <mxPoint x="980" y="205" as="targetPoint" />
@@ -534,8 +534,8 @@
         <mxCell id="127" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.15;endArrow=block;endFill=1;startArrow=none;entryX=-0.001;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" target="89" value="">
           <mxGeometry relative="1" x="0.002" as="geometry">
             <Array as="points">
-              <mxPoint x="972" y="335" />
-              <mxPoint x="972" y="236" />
+              <mxPoint x="970" y="335" />
+              <mxPoint x="970" y="236.11" />
             </Array>
             <mxPoint x="949" y="335" as="sourcePoint" />
             <mxPoint x="980" y="236" as="targetPoint" />
@@ -571,8 +571,8 @@
             <mxPoint x="980" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="131" edge="1" parent="1" source="83" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.1;endArrow=block;endFill=1;startArrow=none;entryX=0;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" target="91" value="">
-          <mxGeometry relative="1" x="0.0175" as="geometry">
+        <mxCell id="131" edge="1" parent="1" source="83" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.1;endArrow=block;endFill=1;startArrow=none;entryX=0;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="91" value="">
+          <mxGeometry relative="1" x="0.0191" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="550" />
               <mxPoint x="970" y="528.09" />
