@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="2438" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,33 +120,33 @@
           <mxGeometry height="20" width="34" x="337" y="605" as="geometry" />
         </mxCell>
         <mxCell id="33" parent="1" style="whiteSpace=wrap;html=1;fillColor=#F5FAFF;strokeColor=#2E83C5;strokeWidth=1.4;fontFamily=Georgia;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;" value="&lt;b&gt;&lt;i&gt;Q&lt;/i&gt;&lt;sub&gt;20&lt;/sub&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;shared QCNet-3D&lt;br&gt;backbone&lt;/font&gt;&lt;br&gt;&lt;i&gt;&lt;font color=&quot;#245BA8&quot; style=&quot;font-size:12px&quot;&gt;runs once&lt;/font&gt;&lt;/i&gt;" vertex="1">
-          <mxGeometry height="139" width="123" x="460" y="190" as="geometry" />
+          <mxGeometry height="139" width="123" x="460" y="177" as="geometry" />
         </mxCell>
         <mxCell id="34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontSize=14;fontColor=#222831;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;5&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="24" width="46" x="408" y="187" as="geometry" />
+          <mxGeometry height="24" width="46" x="408" y="157" as="geometry" />
         </mxCell>
         <mxCell id="35" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.25;endArrow=block;endFill=1;startArrow=none;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="201" as="sourcePoint" />
-            <mxPoint x="460" y="201" as="targetPoint" />
+            <mxPoint x="395" y="188" as="sourcePoint" />
+            <mxPoint x="460" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="36" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontSize=14;fontColor=#222831;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;10&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="24" width="46" x="408" y="236" as="geometry" />
+          <mxGeometry height="24" width="46" x="408" y="215" as="geometry" />
         </mxCell>
         <mxCell id="37" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.25;endArrow=block;endFill=1;startArrow=none;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="250" as="sourcePoint" />
-            <mxPoint x="460" y="250" as="targetPoint" />
+            <mxPoint x="395" y="237" as="sourcePoint" />
+            <mxPoint x="460" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="38" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontSize=14;fontColor=#222831;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;20&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="24" width="46" x="408" y="305" as="geometry" />
+          <mxGeometry height="24" width="46" x="408" y="284" as="geometry" />
         </mxCell>
         <mxCell id="39" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.25;endArrow=block;endFill=1;startArrow=none;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="319" as="sourcePoint" />
-            <mxPoint x="460" y="319" as="targetPoint" />
+            <mxPoint x="395" y="306" as="sourcePoint" />
+            <mxPoint x="460" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="40" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontSize=17;fontColor=#222831;fontStyle=2;" value="&lt;i&gt;Q&lt;/i&gt;" vertex="1">
@@ -154,8 +154,8 @@
         </mxCell>
         <mxCell id="41" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.4;endArrow=none;endFill=1;startArrow=none;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="583" y="259" as="sourcePoint" />
-            <mxPoint x="620" y="259" as="targetPoint" />
+            <mxPoint x="583" y="246" as="sourcePoint" />
+            <mxPoint x="620" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="42" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#222831;strokeWidth=1.3;endArrow=none;endFill=1;startArrow=none;" value="">
