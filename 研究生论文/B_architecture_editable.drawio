@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="680" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,10 +75,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="21" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Georgia;fontSize=13;fontColor=#222831;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;20&lt;/sub&gt; (3.8 s)" vertex="1">
-          <mxGeometry height="25" width="94" x="38.5" y="554" as="geometry" />
+          <mxGeometry height="25" width="94" x="39" y="555.5" as="geometry" />
         </mxCell>
         <mxCell id="22" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Georgia;fontSize=13;fontColor=#222831;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;10&lt;/sub&gt; (1.8 s)" vertex="1">
-          <mxGeometry height="25" width="94" x="38.5" y="504" as="geometry" />
+          <mxGeometry height="25" width="94" x="39" y="507" as="geometry" />
         </mxCell>
         <mxCell id="23" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Georgia;fontSize=13;fontColor=#222831;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;5&lt;/sub&gt; (0.8 s)" vertex="1">
           <mxGeometry height="25" width="94" x="39.5" y="459" as="geometry" />
