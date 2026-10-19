@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="31" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontSize=12;fontColor=#222831;fontStyle=2;" value="&lt;i&gt;t&lt;/i&gt; − 3.8 s" vertex="1">
-          <mxGeometry height="20" width="105" x="79.5" y="613.5" as="geometry" />
+          <mxGeometry height="20" width="105" x="39" y="605" as="geometry" />
         </mxCell>
         <mxCell id="32" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontSize=12;fontColor=#222831;fontStyle=2;" value="&lt;i&gt;t&lt;/i&gt;" vertex="1">
           <mxGeometry height="20" width="34" x="337" y="605" as="geometry" />
