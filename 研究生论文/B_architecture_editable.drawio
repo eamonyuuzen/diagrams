@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="2438" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="333" width="555" x="405" y="54" as="geometry" />
         </mxCell>
         <mxCell id="4" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EAF5E6;strokeColor=#79B56F;strokeWidth=1.3;fontFamily=Georgia;fontSize=18;fontStyle=1;align=left;verticalAlign=top;spacingLeft=14;spacingTop=10;" value="Independent direct predictors" vertex="1">
-          <mxGeometry height="253" width="555" x="405" y="389.5" as="geometry" />
+          <mxGeometry height="253" width="555" x="404.5" y="397" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F1E9FA;strokeColor=#9B78C2;strokeWidth=1.3;fontFamily=Georgia;fontSize=18;fontStyle=1;align=left;verticalAlign=top;spacingLeft=14;spacingTop=10;" value="&lt;b&gt;②&amp;nbsp; Fixed trajectory fusion&lt;/b&gt;" vertex="1">
           <mxGeometry height="598" width="664" x="968" y="54" as="geometry" />
