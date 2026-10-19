@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture Editable v2">
-    <mxGraphModel dx="982" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="817" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -925,7 +925,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="na6W_ij0c8bvPzSFLpDe-210" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#747C82;strokeColor=#747C82;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="320" y="255" as="geometry" />
+          <mxGeometry height="10" width="10" x="320" y="249" as="geometry" />
         </mxCell>
         <mxCell id="19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#111820;strokeColor=#111820;strokeWidth=1;direction=south;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="357" y="269" as="geometry" />
