@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture - Final reviewed 2026-10-20">
-    <mxGraphModel dx="2049" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="942" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="942" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,10 +255,10 @@
             <mxPoint x="530" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="69" parent="1" style="whiteSpace=wrap;html=1;fillColor=#EDF8E8;strokeColor=#4D8D4A;strokeWidth=1.35;fontFamily=Georgia;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;fontSize=16;" value="3 independent GRUs&lt;br&gt;&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt; → &lt;i&gt;G&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt;" vertex="1">
+        <mxCell id="69" parent="1" style="whiteSpace=wrap;html=1;fillColor=#EDF8E8;strokeColor=#4D8D4A;strokeWidth=1.35;fontFamily=Georgia;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;fontSize=16;" value="3 independent&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;GRUs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt; → &lt;i&gt;G&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="178" x="583" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="70" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFF4E4;strokeColor=#C47A2C;strokeWidth=1.35;fontFamily=Georgia;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;fontSize=16;" value="3 independent Ridge models&lt;br&gt;&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt; → &lt;i&gt;R&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt;" vertex="1">
+        <mxCell id="70" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFF4E4;strokeColor=#C47A2C;strokeWidth=1.35;fontFamily=Georgia;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;fontSize=16;" value="3 independent&amp;nbsp;&lt;div&gt;Ridge models&lt;br&gt;&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt; → &lt;i&gt;R&lt;/i&gt;&lt;sub&gt;h&lt;/sub&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="178" x="583" y="540" as="geometry" />
         </mxCell>
         <mxCell id="71" edge="1" parent="1" source="59" style="edgeStyle=none;rounded=1;arcSize=6;html=1;endArrow=block;endFill=1;startArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#4D5862;strokeWidth=1.2;endSize=7;" target="69" value="">
