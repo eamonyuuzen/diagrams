@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="uav-b-framework-v2" name="B Architecture - Final arrow refinement v6">
-    <mxGraphModel dx="1704" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1648" pageHeight="930" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="36" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontColor=#2E83C5;fontSize=16;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;10&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="22" width="48" x="674" y="178" as="geometry" />
+          <mxGeometry height="22" width="48" x="674" y="180" as="geometry" />
         </mxCell>
         <mxCell id="37" edge="1" parent="1" style="edgeStyle=none;rounded=1;arcSize=6;html=1;strokeColor=#2E83C5;strokeWidth=1.2;endArrow=block;endFill=1;startArrow=none;endSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.77;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="49" value="">
           <mxGeometry relative="1" as="geometry">
@@ -714,7 +714,7 @@
           <mxGeometry height="10" width="10" x="357" y="269" as="geometry" />
         </mxCell>
         <mxCell id="minor_v1_history20_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Georgia;fontColor=#2E83C5;fontSize=16;" value="&lt;i&gt;H&lt;/i&gt;&lt;sub&gt;20&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="22" width="48" x="674" y="248" as="geometry" />
+          <mxGeometry height="22" width="48" x="674" y="250" as="geometry" />
         </mxCell>
         <mxCell id="minor_v1_history20_edge" edge="1" parent="1" style="edgeStyle=none;rounded=1;arcSize=6;html=1;strokeColor=#2E83C5;strokeWidth=1.2;endArrow=block;endFill=1;startArrow=none;endSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.77;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="54" value="">
           <mxGeometry relative="1" as="geometry">
